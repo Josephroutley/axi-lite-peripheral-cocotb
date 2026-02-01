@@ -5,7 +5,7 @@ This project implements a memory-mapped peripheral compliant with the **AMBA AXI
 
 The verification environment is built using **Python (Cocotb)** to simulate a "Master" agent driving traffic to the peripheral.
 
-## Learning Objectives (NVIDIA Target Skills)
+## Learning Objectives
 * **Bus Protocols:** Deep understanding of the AXI Valid/Ready handshake mechanism.
 * **Python Scripting:** Using Python for verification (Cocotb) to drive stimulus and check responses.
 * **FSM Design:** Handling complex state transitions for Read/Write channels.
